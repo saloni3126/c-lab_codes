@@ -1,0 +1,2 @@
+Hello, this is a text written to the file!
+C programming is fun!
